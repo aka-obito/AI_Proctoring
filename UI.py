@@ -1,4 +1,4 @@
-import streamlit as st # type: ignore
+import streamlit as st
 import threading
 import time
 import matplotlib.pyplot as plt

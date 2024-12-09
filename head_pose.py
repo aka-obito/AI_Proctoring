@@ -2,10 +2,10 @@ from audioop import avg
 from glob import glob
 from itertools import count
 import cv2
-import mediapipe as mp # type: ignore
+import mediapipe as mp
 import numpy as np
 import threading as th
-import sounddevice as sd # type: ignore
+import sounddevice as sd
 import audio
 
 # place holders and global variables

@@ -1,4 +1,4 @@
-import sounddevice as sd  # type: ignore
+import sounddevice as sd 
 import wave
 import numpy as np
 
